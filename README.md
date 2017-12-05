@@ -2,6 +2,9 @@
 Java EE Coding Exercise
 task + simple template for JEE application
 
+INPUT: array of integers
+OUTPUT: integer number, further called "volume"
+
 Algorthm
 
 Short description:
