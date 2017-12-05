@@ -20,4 +20,11 @@ The time complexity:
  * worst case O(n^2 / 3) ~ O(n^2);
  * best case O(n*3) ~ O(n) if array has shape of plate. 
  * average ~O(n^2)
+ 
+ the space complexity:
+ * all cases ~O(n)
+ 
+ ------------------------------------------------------------------------------
+ 
 
+I can imagine an algorithm with complexity O(n) . If we find all valid peaks during first iteration and save them to the special array. If we have indexes of peaks we can compute volume. Also we can do it in paralel. 
